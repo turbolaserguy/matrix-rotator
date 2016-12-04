@@ -1,0 +1,11 @@
+Welcome to my first project, a matrix rotator!
+
+matrix-rotator.c is the C source file.
+a.out, the executable, is only for Mac OS X with Intel microprocessors.
+If you want to build and execute the program on Linux, type:
+ $ gcc matrix-rotator.c
+ $ ./a.out
+Enjoy!
+
+December 4, 2016
+turbolaserguy
